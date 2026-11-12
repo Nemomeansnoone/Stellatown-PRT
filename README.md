@@ -5,6 +5,9 @@ The game can be accessed here:
 
 https://www.roblox.com/games/118573392857400/Stellatown-PRT
 
-
+## How to run the game
 A copy of the Roblox Studio Place File has been provided in the releases for users that are unable to access the game on Roblox due to Roblox's age limits.
 To use the Roblox Studio Place File, you first have to install Roblox Studio onto your device, then open the file by double-clicking on it in your file manager.
+
+## How the game was made
+This game was made using Roblox Studio, coded in Luau. This is my first Lua project, and is not yet complete.
